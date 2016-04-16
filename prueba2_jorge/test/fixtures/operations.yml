@@ -3,7 +3,9 @@
 one:
   name: MyString
   worker_id: 
+  operation: operation_one
 
 two:
   name: MyString
   worker_id: 
+  operation: operation_one

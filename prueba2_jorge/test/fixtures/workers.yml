@@ -3,7 +3,10 @@
 one:
   name: MyString
   email: MyString
+  worker: one
 
 two:
   name: MyString
   email: MyString
+  worker: one
+  
